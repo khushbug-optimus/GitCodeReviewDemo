@@ -13,9 +13,9 @@ namespace GitCodeReviewDemo
             int a = 34;
             int b = 45;
 
-            int c = a + b;
+            int SUM = a + b;
 
-            Console.WriteLine("Sum:" + c);
+            Console.WriteLine("Sum:" + SUM);
 
 
             int d = b - a;
