@@ -4,3 +4,9 @@ c:\users\optimus9.optimusdom\documents\visual studio 2012\Projects\CodeReviewDem
 c:\users\optimus9.optimusdom\documents\visual studio 2012\Projects\CodeReviewDemo\GitCodeReviewDemo\obj\Debug\GitCodeReviewDemo.csprojResolveAssemblyReference.cache
 c:\users\optimus9.optimusdom\documents\visual studio 2012\Projects\CodeReviewDemo\GitCodeReviewDemo\obj\Debug\GitCodeReviewDemo.exe
 c:\users\optimus9.optimusdom\documents\visual studio 2012\Projects\CodeReviewDemo\GitCodeReviewDemo\obj\Debug\GitCodeReviewDemo.pdb
+E:\DemoCodeReview_18Dec14\GitCodeReviewDemo_1\CodeReviewDemo\GitCodeReviewDemo\bin\Debug\GitCodeReviewDemo.exe.config
+E:\DemoCodeReview_18Dec14\GitCodeReviewDemo_1\CodeReviewDemo\GitCodeReviewDemo\obj\Debug\GitCodeReviewDemo.exe
+E:\DemoCodeReview_18Dec14\GitCodeReviewDemo_1\CodeReviewDemo\GitCodeReviewDemo\obj\Debug\GitCodeReviewDemo.pdb
+E:\DemoCodeReview_18Dec14\GitCodeReviewDemo_1\CodeReviewDemo\GitCodeReviewDemo\bin\Debug\GitCodeReviewDemo.exe
+E:\DemoCodeReview_18Dec14\GitCodeReviewDemo_1\CodeReviewDemo\GitCodeReviewDemo\bin\Debug\GitCodeReviewDemo.pdb
+E:\DemoCodeReview_18Dec14\GitCodeReviewDemo_1\CodeReviewDemo\GitCodeReviewDemo\obj\Debug\GitCodeReviewDemo.csprojResolveAssemblyReference.cache

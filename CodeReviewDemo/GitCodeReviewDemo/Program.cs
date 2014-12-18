@@ -10,15 +10,15 @@ namespace GitCodeReviewDemo
     {
         static void Main(string[] args)
         {
-            int a = 34;
-            int b = 45;
+            int num1 = 34;
+            int num2 = 45;
 
-            int SUM = a + b;
+            int SUM = num1 + num2;
 
             Console.WriteLine("Sum:" + SUM);
 
 
-            int d = b - a;
+            int d = num2 - num1;
             Console.WriteLine("difference:" + d);
 
             Console.ReadLine();
